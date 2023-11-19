@@ -571,6 +571,9 @@ video {
 .border-b-2 {
   border-bottom-width: 2px;
 }
+.border-b-0 {
+  border-bottom-width: 0px;
+}
 .border-black {
   --tw-border-opacity: 1;
   border-color: rgb(0 0 0 / var(--tw-border-opacity));
@@ -643,6 +646,12 @@ video {
 .p-100p {
   padding: 100%;
 }
+.p-15p {
+  padding: 15%;
+}
+.p-20p {
+  padding: 20%;
+}
 .px-5p {
   padding-left: 5%;
   padding-right: 5%;
@@ -697,6 +706,9 @@ video {
 }
 .pt-0 {
   padding-top: 0px;
+}
+.pb-10p {
+  padding-bottom: 10%;
 }
 .text-center {
   text-align: center;
